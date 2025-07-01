@@ -3,7 +3,7 @@
     "message": "Couleur de fond"
   },
   "change_settings_shortcut": {
-    "message": "Change shortcut"
+    "message": "Changer de raccourci"
   },
   "clear_addressbar_description": {
     "message": "L’effacement automatique de la barre d’adresse ou de la sélection de l’URL n’est actuellement pas possible pour les WebExtensions. Cela nécessite une modification par Mozilla."
@@ -12,7 +12,7 @@
     "message": "Effacer la barre d’adresse / sélectionner une URL"
   },
   "extension_description": {
-    "message": "New Tab Override allows you to set the page that shows whenever you open a new tab."
+    "message": "New Tab Override vous permet de définir la page qui s'affiche à chaque fois que vous ouvrez un nouvel onglet."
   },
   "extension_name": {
     "message": "New Tab Override"
@@ -111,13 +111,13 @@
     "message": "Tab Position"
   },
   "tab_position_option_relatedAfterCurrent": {
-    "message": "Open new tabs next to the current tab if they are related to the current tab, otherwise at the end of the tab strip (default)"
+    "message": "Ouvrir de nouveaux onglets à côté de l'onglet actuel s'ils sont liés à l'onglet actuel, sinon à la fin de la bande d'onglets (par défaut)"
   },
   "tab_position_option_afterCurrent": {
-    "message": "Open all new tabs next to the current tab"
+    "message": "Ouvrir tous les nouveaux onglets à côté de l'onglet actuel"
   },
   "tab_position_option_atEnd": {
-    "message": "Open all new tabs at the end of the tabstrip"
+    "message": "Ouvrir tous les nouveaux onglets à la fin de la barre d'onglets"
   },
   "type_options_background_color": {
     "message": "couleur de fond"
